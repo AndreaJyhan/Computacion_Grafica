@@ -1,0 +1,29 @@
+﻿  main_prac3.cpp
+  main_prac3 (2).cpp
+  Generando código...
+main_prac3.obj : error LNK2005: ya se definió "void __cdecl InitGL(void)" (?InitGL@@YAXXZ) en main_prac3 (2).obj
+main_prac3.obj : error LNK2005: ya se definió "void __cdecl arrow_keys(int,int,int)" (?arrow_keys@@YAXHHH@Z) en main_prac3 (2).obj
+main_prac3.obj : error LNK2005: ya se definió "void __cdecl display(void)" (?display@@YAXXZ) en main_prac3 (2).obj
+main_prac3.obj : error LNK2005: ya se definió "void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z) en main_prac3 (2).obj
+main_prac3.obj : error LNK2005: ya se definió "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) en main_prac3 (2).obj
+main_prac3.obj : error LNK2005: ya se definió _main en main_prac3 (2).obj
+main_prac3.obj : error LNK2005: ya se definió "float angleX" (?angleX@@3MA) en main_prac3 (2).obj
+main_prac3.obj : error LNK2005: ya se definió "float angleY" (?angleY@@3MA) en main_prac3 (2).obj
+main_prac3.obj : error LNK2005: ya se definió "float angleZ" (?angleZ@@3MA) en main_prac3 (2).obj
+main_prac3.obj : error LNK2005: ya se definió "float transX" (?transX@@3MA) en main_prac3 (2).obj
+main_prac3.obj : error LNK2005: ya se definió "float transY" (?transY@@3MA) en main_prac3 (2).obj
+main_prac3.obj : error LNK2005: ya se definió "float transZ" (?transZ@@3MA) en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "void __cdecl InitGL(void)" (?InitGL@@YAXXZ) en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "void __cdecl arrow_keys(int,int,int)" (?arrow_keys@@YAXHHH@Z) en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "void __cdecl display(void)" (?display@@YAXXZ) en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z) en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "void __cdecl prisma(float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float)" (?prisma@@YAXMMMMMMMMMMMMMMMMMMMM@Z) en main_prac3.obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió _main en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "float angleX" (?angleX@@3MA) en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "float angleY" (?angleY@@3MA) en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "float angleZ" (?angleZ@@3MA) en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "float transX" (?transX@@3MA) en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "float transY" (?transY@@3MA) en main_prac3 (2).obj
+main_prac3_ejercicio.obj : error LNK2005: ya se definió "float transZ" (?transZ@@3MA) en main_prac3 (2).obj
+C:\Users\Andrea\Desktop\practica3\Debug\practica3.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
